@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TruckSim/static/css/main.33237180.css",
+    "main.js": "/TruckSim/static/js/main.fa752a0c.js",
+    "static/media/Truck.glb": "/TruckSim/static/media/Truck.a285add58383c4a937c0.glb",
+    "index.html": "/TruckSim/index.html",
+    "main.33237180.css.map": "/TruckSim/static/css/main.33237180.css.map",
+    "main.fa752a0c.js.map": "/TruckSim/static/js/main.fa752a0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33237180.css",
+    "static/js/main.fa752a0c.js"
+  ]
+}
