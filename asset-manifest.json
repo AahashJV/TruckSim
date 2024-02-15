@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/TruckSim/static/css/main.33237180.css",
-    "main.js": "/TruckSim/static/js/main.fa752a0c.js",
-    "static/media/Truck.glb": "/TruckSim/static/media/Truck.a285add58383c4a937c0.glb",
+    "main.css": "/TruckSim/static/css/main.c51a30c8.css",
+    "main.js": "/TruckSim/static/js/main.f7a922eb.js",
+    "static/media/Truck.glb": "/TruckSim/static/media/Truck.d79757fd7c8a4477e390.glb",
+    "static/media/Barel.glb": "/TruckSim/static/media/Barel.6a3addd719a795c80031.glb",
     "index.html": "/TruckSim/index.html",
-    "main.33237180.css.map": "/TruckSim/static/css/main.33237180.css.map",
-    "main.fa752a0c.js.map": "/TruckSim/static/js/main.fa752a0c.js.map"
+    "static/media/vertex.glsl": "/TruckSim/static/media/vertex.c7cdc436169b7ad7fb2f.glsl",
+    "static/media/fragment.glsl": "/TruckSim/static/media/fragment.98a4b6b30f89af2bf786.glsl",
+    "main.c51a30c8.css.map": "/TruckSim/static/css/main.c51a30c8.css.map",
+    "main.f7a922eb.js.map": "/TruckSim/static/js/main.f7a922eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.33237180.css",
-    "static/js/main.fa752a0c.js"
+    "static/css/main.c51a30c8.css",
+    "static/js/main.f7a922eb.js"
   ]
 }
